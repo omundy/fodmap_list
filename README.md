@@ -1,4 +1,12 @@
-# Adding food items
+# Fodmaps
+
+Printable table view 
+https://codepen.io/owenmundy/pen/PoMWErO?editors=1111
+
+<hr>
+
+
+## Adding food items
 
 Supported food items use the following format:
 
@@ -23,7 +31,7 @@ Notes:
 * If you are new to JSON, please note that all food items *except the last item* must have a **comma** after the closing `}`
 
 
-# Sources: 
+## Sources: 
 
 In general we only add items that we can successfully crossreference from several different sources. This list below is not exhaustive but contains many of the sources we use.
 
@@ -40,7 +48,7 @@ Keep in mind because the FODMAP diet is relatively new, many foods have not been
 * https://www.regionalgi.com/wp-content/uploads/FODMAP-Diet-Chart-RGI.pdf
 * https://irritablebowelsyndrome.net/ibs-diet/
 
-# Disclaimer
+## Disclaimer
 
 We do not perform any testing ourselves. All compliled data should be used as a guidelines not as a basis of fact.
 
