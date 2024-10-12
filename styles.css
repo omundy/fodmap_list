@@ -86,8 +86,30 @@ body {
 }
 
 .columns {
-	column-count: 5;
+	column-count: 1;
 	column-gap: 0rem;
+}
+
+
+@media screen and (min-width: 350px) {
+	.columns {
+		column-count: 2;
+	}
+}
+@media screen and (min-width: 550px) {
+	.columns {
+		column-count: 3;
+	}
+}
+@media screen and (min-width: 750px) {
+	.columns {
+		column-count: 4;
+	}
+}
+@media screen and (min-width: 950px) {
+	.columns {
+		column-count: 5;
+	}
 }
 
 .high {

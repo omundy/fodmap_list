@@ -1,7 +1,7 @@
 # Fodmaps
 
 Printable table view 
-https://codepen.io/owenmundy/pen/PoMWErO?editors=1111
+https://omundy.github.io/fodmaps/
 
 <hr>
 
