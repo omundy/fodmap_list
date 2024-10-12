@@ -79,10 +79,14 @@ code {
 	border-left: 1px solid #ffffff33;
 }
 
+html,
 body {
-	font-size: 79%;
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	font-size: 78%;
 }
 
 .columns {
@@ -91,22 +95,30 @@ body {
 }
 
 
-@media screen and (min-width: 350px) {
+@media all and (min-width: 350px) {
 	.columns {
 		column-count: 2;
 	}
 }
-@media screen and (min-width: 550px) {
+
+@media all and (min-width: 550px) {
 	.columns {
 		column-count: 3;
 	}
 }
-@media screen and (min-width: 750px) {
+
+@media all and (min-width: 750px) {
 	.columns {
 		column-count: 4;
 	}
 }
-@media screen and (min-width: 950px) {
+
+@media all and (min-width: 950px) {
+	.columns {
+		column-count: 5;
+	}
+}
+@media print {
 	.columns {
 		column-count: 5;
 	}
