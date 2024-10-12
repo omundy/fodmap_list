@@ -1264,7 +1264,7 @@
   },
   {
     "id": "186",
-    "name": "Gluten free wheat products (e.g. breads, cereals, pasta) made without high fodmap ingredients like honey or garlic",
+    "name": "Gluten free wheat products (e.g. breads, cereals, pasta)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}

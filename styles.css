@@ -1,0 +1,109 @@
+/* This template uses CSS --vars and a palette from coolers.co:  
+https://coolors.co/f94144-f3722c-f8961e-f9844a-f9c74f-90be6d-43aa8b-4d908e-577590-277da1
+*/
+:root {
+	--red-salsa: #f94144ff;
+	--orange-red: #f3722cff;
+	--yellow-orange-color-wheel: #f8961eff;
+	--mango-tango: #f9844aff;
+	--maize-crayola: #f9c74fff;
+	--pistachio: #90be6dff;
+	--zomp: #43aa8bff;
+	--cadet-blue: #4d908eff;
+	--queen-blue: #577590ff;
+	--cg-blue: #277da1ff;
+}
+
+.c0 {
+	background-color: var(--red-salsa);
+}
+
+.c1 {
+	background-color: var(--orange-red);
+}
+
+.c2 {
+	background-color: var(--yellow-orange-color-wheel);
+}
+
+.c3 {
+	background-color: var(--mango-tango);
+}
+
+.c4 {
+	background-color: var(--maize-crayola);
+}
+
+.c5 {
+	background-color: var(--pistachio);
+}
+
+.c6 {
+	background-color: var(--zomp);
+}
+
+.c7 {
+	background-color: var(--cadet-blue);
+}
+
+.c8 {
+	background-color: var(--queen-blue);
+}
+
+.c9 {
+	background-color: var(--cg-blue);
+}
+
+code {
+	color: var(--queen-blue);
+	background-color: #eee;
+	display: inline-block;
+	padding: 0px 2px;
+	border-radius: 4px;
+}
+
+.breakpoint {
+	position: fixed;
+	top: 0;
+	right: 0;
+	font-size: .9rem;
+}
+
+.c {
+	background-color: #333;
+	color: white;
+}
+
+.f {
+	border-bottom: 1px solid #ffffff33;
+	border-left: 1px solid #ffffff33;
+}
+
+body {
+	font-size: 79%;
+	margin: 0;
+	padding: 0;
+}
+
+.columns {
+	column-count: 5;
+	column-gap: 0rem;
+}
+
+.high {
+	color: red;
+}
+
+.highH {
+	background-color: red;
+	color: white;
+}
+
+.low {
+	color: green;
+}
+
+.lowH {
+	background-color: green;
+	color: white;
+}
